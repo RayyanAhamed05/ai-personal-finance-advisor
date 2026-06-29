@@ -1,0 +1,77 @@
+date,category,amount,description,type
+2024-01-01,Income,50000,Salary,Income
+2024-01-02,Food,250,Breakfast,Expense
+2024-01-03,Food,450,Lunch,Expense
+2024-01-04,Travel,120,Bus,Expense
+2024-01-05,Entertainment,499,Netflix,Expense
+2024-01-06,Utilities,1500,Electricity Bill,Expense
+2024-01-07,Shopping,2000,Clothes,Expense
+2024-01-08,Food,300,Dinner,Expense
+2024-01-10,Travel,500,Taxi,Expense
+2024-01-12,Utilities,800,Water Bill,Expense
+
+2024-02-01,Income,50000,Salary,Income
+2024-02-02,Food,260,Breakfast,Expense
+2024-02-03,Food,480,Lunch,Expense
+2024-02-04,Travel,150,Bus,Expense
+2024-02-05,Entertainment,499,Netflix,Expense
+2024-02-06,Utilities,1550,Electricity Bill,Expense
+2024-02-07,Shopping,1800,Groceries,Expense
+2024-02-08,Food,350,Dinner,Expense
+2024-02-10,Travel,600,Taxi,Expense
+2024-02-12,Utilities,850,Water Bill,Expense
+2024-02-15,Utilities,239,Mobile Recharge,Expense
+
+2024-03-01,Income,50000,Salary,Income
+2024-03-02,Food,270,Breakfast,Expense
+2024-03-03,Food,500,Lunch,Expense
+2024-03-04,Travel,130,Bus,Expense
+2024-03-05,Entertainment,499,Netflix,Expense
+2024-03-06,Utilities,1600,Electricity Bill,Expense
+2024-03-07,Shopping,2100,Shopping Mall,Expense
+2024-03-08,Food,320,Dinner,Expense
+2024-03-10,Travel,550,Taxi,Expense
+2024-03-12,Utilities,870,Water Bill,Expense
+2024-03-15,Utilities,239,Mobile Recharge,Expense
+
+2024-04-01,Income,50000,Salary,Income
+2024-04-02,Food,280,Breakfast,Expense
+2024-04-03,Food,510,Lunch,Expense
+2024-04-04,Travel,140,Bus,Expense
+2024-04-05,Entertainment,499,Netflix,Expense
+2024-04-06,Utilities,1580,Electricity Bill,Expense
+2024-04-07,Shopping,2200,Amazon Purchase,Expense
+2024-04-08,Food,330,Dinner,Expense
+2024-04-10,Travel,620,Taxi,Expense
+2024-04-12,Utilities,880,Water Bill,Expense
+2024-04-15,Utilities,239,Mobile Recharge,Expense
+
+2024-05-01,Income,50000,Salary,Income
+2024-05-02,Food,300,Breakfast,Expense
+2024-05-03,Food,520,Lunch,Expense
+2024-05-04,Travel,150,Bus,Expense
+2024-05-05,Entertainment,499,Netflix,Expense
+2024-05-06,Utilities,1620,Electricity Bill,Expense
+2024-05-07,Shopping,2500,Electronics,Expense
+2024-05-08,Food,350,Dinner,Expense
+2024-05-10,Travel,700,Taxi,Expense
+2024-05-12,Utilities,900,Water Bill,Expense
+2024-05-15,Utilities,239,Mobile Recharge,Expense
+
+2024-06-01,Income,50000,Salary,Income
+2024-06-02,Food,310,Breakfast,Expense
+2024-06-03,Food,530,Lunch,Expense
+2024-06-04,Travel,160,Bus,Expense
+2024-06-05,Entertainment,499,Netflix,Expense
+2024-06-06,Utilities,1650,Electricity Bill,Expense
+2024-06-07,Shopping,2600,Furniture,Expense
+2024-06-08,Food,370,Dinner,Expense
+2024-06-10,Travel,720,Taxi,Expense
+2024-06-12,Utilities,920,Water Bill,Expense
+2024-06-15,Utilities,239,Mobile Recharge,Expense
+
+2024-06-20,Shopping,15000,Phone Purchase,Expense
+2024-06-25,Shopping,12000,Laptop EMI,Expense
+2024-06-28,Entertainment,999,Spotify Premium,Expense
+2024-06-29,Entertainment,999,Spotify Premium,Expense
+2024-07-05,Entertainment,999,Spotify Premium,Expense
